@@ -24,7 +24,7 @@ Passionate about telecommunications and software development, currently studying
 <p align="left">
   <a href="https://www.youtube.com/channel/UCxXpUVOI1RMGyF9lVdivl_Q" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@emmanuel_art24?_t=ZM-8xQb7UPm9cT&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.instagram.com/emmanuel_art24/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:perezemmanuel726@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
