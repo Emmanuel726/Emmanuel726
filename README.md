@@ -6,7 +6,7 @@
 
 
 ## 🌍 Sobre mí / About me
-¡Apasionado por las telecomunicaciones y el desarrollo de software, Actualmente cursando mi quinto semestre de Ingeniería en Telecomunicaciones en la **Universidad de Carabobo**
+¡Apasionado por las telecomunicaciones y el desarrollo de software, Actualmente cursando mi sexto semestre de Ingeniería en Telecomunicaciones en la **Universidad de Carabobo**
 
 Passionate about telecommunications and software development, currently studying my fifth semester of Telecommunications Engineering at the **University of Carabobo**
 
